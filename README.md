@@ -19,4 +19,7 @@ O intuito de analisar este dataset foi procurar responder as seguintes perguntas
 
 
 
-Link do arquivo csv: data do acesso: 12/08/2021 [Opendatasus](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/ef3bd0b8-b605-474b-9ae5-c97390c197a8)
+Como o dataset é muito grande (mais de 1Gb) não da para ser carregado aqui no GitHub. Mas pode ser baixado no link abaixo.
+Data do acesso: 12/08/2021 [Opendatasus](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/ef3bd0b8-b605-474b-9ae5-c97390c197a8)
+
+
