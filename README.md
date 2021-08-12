@@ -7,9 +7,9 @@ O intuito de analisar este dataset foi procurar responder as seguintes perguntas
 
 - Quantas pessoas já estão vacinadas com pelo menos 1 dose (D1)?
 
-- Quantas pessoas já estão completamente vacinadas (D1+D2)?
+- Quantas pessoas já estão completamente vacinadas (D1+D2) ou dose única?
 
-- O gêneros (homem/mulher) que foram mais cobertos com a vacinação?
+- O gênero (homem/mulher) que foi mais coberto com a vacinação?
 
 - A idade média das pesoas que está completamente imunizada?
 
