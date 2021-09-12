@@ -20,6 +20,6 @@ O intuito de analisar este dataset foi procurar responder as seguintes perguntas
 
 
 Como o dataset é muito grande (mais de 1Gb) não da para ser carregado aqui no GitHub. Mas pode ser baixado no link [Opendatasus](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/ef3bd0b8-b605-474b-9ae5-c97390c197a8).
-A data do acesso foi 12/08/2021
+A data do acesso foi 12/09/2021
 
 
